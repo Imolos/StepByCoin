@@ -1,0 +1,20 @@
+{
+  "name": "coin_steps_to_top_of_the_building",
+  "version": "1.0.0",
+  "description": "Counting How many steps of stair made from coins will it take to top of building",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "coins",
+    "steps",
+    "buildin"
+  ],
+  "author": "Imolo",
+  "license": "ISC",
+  "dependencies": {
+    "jsdoc": "^4.0.3"
+  }
+}
