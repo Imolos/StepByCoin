@@ -1,0 +1,75 @@
+{
+  "coins": {
+    "czechCoins": [
+      {
+        "id": 1,
+        "name": "Czech crown (1,2,5)",
+        "height": 1.85
+      },
+      {
+        "id": 2,
+        "name": "Czech crown (10,20,50)",
+        "height": 2.55
+      }
+    ],
+    "britishCoins": [
+      {
+        "id": 1,
+        "name": "One Penny",
+        "height": 1.65
+      },
+      {
+        "id": 2,
+        "name": "Two Pence",
+        "height": 2.03
+      },
+      {
+        "id": 3,
+        "name": "Five Pence",
+        "height": 1.89
+      },
+      {
+        "id": 3,
+        "name": "Silver coins (20p, 50p)",
+        "height": 1.85
+      },
+      {
+        "id": 4,
+        "name": "Pound coins (£1, £2)",
+        "height": 2.80
+      }
+    ],
+    "usdCoins": [
+      {
+        "id": 1,
+        "name": "Penny (1¢)",
+        "height": 1.52
+      },
+      {
+        "id": 2,
+        "name": "Nickel (5¢)",
+        "height": 1.95
+      },
+      {
+        "id": 3,
+        "name": "Dime (10¢)",
+        "height": 1.35
+      },
+      {
+        "id": 4,
+        "name": "Quarter (25¢)",
+        "height": 1.75
+      },
+      {
+        "id": 5,
+        "name": "Half Dollar (50¢)",
+        "height": 2.15
+      },
+      {
+        "id": 6,
+        "name": "Dollar Coin ($1)",
+        "height": 2.00
+      }
+    ]
+  }
+}
